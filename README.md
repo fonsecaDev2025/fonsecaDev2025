@@ -1,27 +1,27 @@
-<h1 align="center">👋 Hi, I’m @fonsecaDev2025</h1>
+<h1 align="center">👋 ¡Hola! Soy @fonsecaDev2025</h1>
 
 <p align="center">
   Desarrollador/a apasionado/a por la tecnología y por crear cosas útiles con código.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fonsecaDev2025&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fonsecaDev2025&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas al perfil" />
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 👀 I’m interested in **desarrollo web, software open source y nuevas tecnologías**
-- 🌱 I’m currently learning **JavaScript/TypeScript, React y buenas prácticas de desarrollo**
-- 💞️ I’m looking to collaborate on **proyectos open source y de aprendizaje en comunidad**
-- 📫 How to reach me: **[tu-email@ejemplo.com]**
-- 😄 Pronouns: **[Él / Ella / Elle]**
-- ⚡ Fun fact: **me encanta aprender algo nuevo cada día** ☕
+- 👀 Me interesa: **desarrollo web, software de código abierto y nuevas tecnologías**
+- 🌱 Actualmente estoy aprendiendo: **JavaScript/TypeScript, React y buenas prácticas de desarrollo**
+- 💞️ Busco colaborar en: **proyectos de código abierto y de aprendizaje en comunidad**
+- 📫 Cómo contactarme: **[tu-email@ejemplo.com]**
+- 😄 Pronombres: **[Él / Ella / Elle]**
+- ⚡ Dato curioso: **me encanta aprender algo nuevo cada día** ☕
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Tecnologías y herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,12 +37,12 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecaDev2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecaDev2025&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecaDev2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecaDev2025&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fonsecaDev2025&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fonsecaDev2025&theme=tokyonight&locale=es" alt="Racha de GitHub" />
 </p>
 
 ---
