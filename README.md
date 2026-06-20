@@ -15,9 +15,8 @@
 - 👀 Me interesa: **desarrollo web, software de código abierto y nuevas tecnologías**
 - 🌱 Actualmente estoy aprendiendo: **JavaScript/TypeScript, React y buenas prácticas de desarrollo**
 - 💞️ Busco colaborar en: **proyectos de código abierto y de aprendizaje en comunidad**
-- 📫 Cómo contactarme: **[tu-email@ejemplo.com]**
-- 😄 Pronombres: **[Él / Ella / Elle]**
-- ⚡ Dato curioso: **me encanta aprender algo nuevo cada día** ☕
+- 📫 Cómo contactarme: **[hector.fonseca85.oficial@gmail.com]**
+- ⚡ Dato curioso: **me encanta aprender algo nuevo cada día en AI** ☕
 
 ---
 
